@@ -10,4 +10,4 @@ const Contacts = () => {
  )
 }
 
-export default Contacts;
+export { Contacts };

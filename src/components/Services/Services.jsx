@@ -1,5 +1,3 @@
-import React from "react";
-
 const Services = () => {
  return (
   <div>
@@ -15,4 +13,4 @@ const Services = () => {
  )
 }
 
-export default Services;
+export { Services };

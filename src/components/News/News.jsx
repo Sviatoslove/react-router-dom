@@ -1,5 +1,3 @@
-import React from "react";
-
 const News = () => {
  return (
   <div>
@@ -15,4 +13,4 @@ const News = () => {
  )
 }
 
-export default News;
+export { News };
